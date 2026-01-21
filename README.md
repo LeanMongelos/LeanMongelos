@@ -30,9 +30,8 @@ Me gusta transformar ideas en proyectos claros, documentados y funcionales.
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ [Tu correo aquí]  
-- 🌐 [Tu sitio web o portfolio aquí]  
-- 🐦 [Tu Twitter/LinkedIn aquí]  
+- ✉️ gastonmongelos@gmail.com
+- 🌐 En construccion
 
 ---
 
